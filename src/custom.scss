@@ -1,0 +1,12 @@
+$theme-colors: (
+  "primary":red,
+  "warning": blue,
+  "danger": pink,
+  "dark": yellow
+);
+
+$font-family-base: quicksand;
+$border-radius: 20px;
+$body-bg: #F3F3F3;
+
+@import "~bootstrap";
